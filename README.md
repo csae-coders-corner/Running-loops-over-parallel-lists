@@ -112,5 +112,5 @@ replace a`i'=5 if u`i'>0.8
 drop u`i'
 }
 
-**AUTHOR: Giulio Schinaia, (former DPhil candidate in the Department of Economies)
+**AUTHOR: Giulio Schinaia, University of Chicago (former DPhil candidate in the Department of Economies)
 05.02.2019**
